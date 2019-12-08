@@ -1,7 +1,7 @@
 function Scooter(year,color,model){
   return{
-    this.year : year,
-  this.color:color,
-  this.model : model
+    year : year,
+    color:color,
+    model : model
   }
 }
