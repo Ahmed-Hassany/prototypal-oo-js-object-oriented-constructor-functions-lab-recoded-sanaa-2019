@@ -13,7 +13,7 @@ function Driver(name,age,experience ){
     experience : experience 
   }
 }
-function PickupLocation(address,age,experience ){
+function PickupLocation(address,city  ){
   return{
     name : name,
     age:age,
