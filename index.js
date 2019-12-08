@@ -13,3 +13,10 @@ function Driver(name,age,experience ){
     experience : experience 
   }
 }
+function Driver(name,age,experience ){
+  return{
+    name : name,
+    age:age,
+    experience : experience 
+  }
+}
