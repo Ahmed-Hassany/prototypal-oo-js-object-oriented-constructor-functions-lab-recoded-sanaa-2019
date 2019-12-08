@@ -6,7 +6,7 @@ function Scooter(year,color,model){
   }
 }
 
-function Scooter(year,color,model){
+function Driver(year,color,model){
   return{
     year : year,
     color:color,
