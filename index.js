@@ -8,8 +8,8 @@ function Scooter(year,color,model){
 
 function Driver(name,age,experience ){
   return{
-    year : year,
-    color:color,
-    model : model
+    name : name,
+    age:age,
+    experience : experience 
   }
 }
