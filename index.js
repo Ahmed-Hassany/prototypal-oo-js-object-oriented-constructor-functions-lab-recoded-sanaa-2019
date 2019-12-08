@@ -15,8 +15,7 @@ function Driver(name,age,experience ){
 }
 function PickupLocation(address,city  ){
   return{
-    name : name,
-    age:age,
-    experience : experience 
+    address : address,
+    city:city
   }
 }
